@@ -1,7 +1,3 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
 # ProdBot
 
 Final project for the Building AI course
@@ -32,6 +28,9 @@ ProdBot is ideal for:
 * Individuals needing help with time management.  
 * People looking to create to-do lists and actionable plans.  
 * Anyone who enjoys a motivating digital assistant for their goals.  
+
+Example interface:  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300" alt="Sample image of a user interacting with ProdBot.">
 
 ## Data sources and AI methods
 
@@ -67,4 +66,5 @@ Skills needed: advanced NLP, backend development, and app integration expertise.
 * No external materials were used for this version.  
 
 ---
+
 
