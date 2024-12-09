@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-ProdBot is a productivity-focused chatbot designed to help users plan their day and week, set goals, create actionable to-do lists, and stay motivated. It provides a simple conversational interface to guide users through staying organized and achieving their tasks.  
+ProdBot is a productivity-focused chatbot designed to help users plan their day and week, set goals, create actionable to-do lists, and stay motivated. 
 **Building AI course project**
 
 ## Background
