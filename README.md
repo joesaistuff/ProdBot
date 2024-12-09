@@ -27,10 +27,7 @@ Users interact with ProdBot in a conversational manner. Here’s how:
 ProdBot is ideal for:  
 * Individuals needing help with time management.  
 * People looking to create to-do lists and actionable plans.  
-* Anyone who enjoys a motivating digital assistant for their goals.  
-
-Example interface:  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300" alt="Sample image of a user interacting with ProdBot.">
+* Anyone who enjoys a motivating digital assistant for their goals.
 
 ## Data sources and AI methods
 
